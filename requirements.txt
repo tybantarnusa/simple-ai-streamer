@@ -1,0 +1,7 @@
+toml
+pytchat
+requests
+gTTS
+numpy
+soundfile
+sounddevice
